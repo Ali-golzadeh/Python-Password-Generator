@@ -1,2 +1,30 @@
-# Python-Password-Generator
-🔐 A simple Python password generator using random letters, numbers, and symbols. Created as part of my 100 Days of Code journey to improve Python skills.
+# 🔐 Password Generator
+
+A simple password generator built with Python.  
+This is part of my Python learning journey .
+
+## 📌 Features
+
+- User defines the number of:
+  - Letters
+  - Numbers
+  - Symbols
+- Random characters are chosen
+- Final password is shuffled for better security
+
+## 💡 Skills Practiced
+
+- `for` loops
+- `random.choice()` and `random.shuffle()`
+- User input handling
+- Working with lists and strings
+
+## 🛠️ Tech
+
+- Language: Python 3
+- No external libraries needed
+
+## 🚀 How to Run
+
+```bash
+python password_generator.py
